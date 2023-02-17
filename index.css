@@ -63,7 +63,7 @@ body {
 .header {
     min-height: 755px;
     background-color: pink;
-    background-image: url(../first-img-bg.jpg);
+    background-image: url(first-img-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
